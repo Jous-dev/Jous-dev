@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jous-dev)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jous-dev)](https://github.com/Jous-dev)
 
-[![Jous-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jous-dev&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Jous-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jous-dev&count_private=true&show_icons=true)](https://github.com/Jous-dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jous-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jous-dev&layout=compact)](https://github.com/Jous-dev)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jous-dev)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jous-dev)](https://github.com/Jous-dev)
 
