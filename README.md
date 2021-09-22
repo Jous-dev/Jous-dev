@@ -51,3 +51,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jous-dev)](https://github.com/Jous-dev)
 
+<a href="https://app.daily.dev/Jous"><img src="https://api.daily.dev/devcards/8d03ee965d714f019ab13fadc193886b.png?r=o8p" width="400" alt="Jous's Dev Card"/></a>
